@@ -1,0 +1,15 @@
+Javascript is a browser-driven application
+Inception:
+	1. To create action-driven interface for web pages.
+	2. Create Dynamicity in Web pages.
+	3. Initially, slower than Python, Ruby on benchmark tests.
+
+Javascript V8 Engine
+Overcame the limitations of JS Engine
+
+Earlier
+1. Rendering Engine and 2. JS Engine combine together to give you the desired web page
+
+
+A new protocol : WS WebSocket
+Makes a persistent connection b/w server and client
